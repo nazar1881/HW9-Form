@@ -81,3 +81,11 @@ body {
     border-radius: 5px;
     border: red 2px solid;
 }
+.invalid {
+    border: red 2px solid;
+    color: red;
+}
+.valid {
+    border: none;
+    color: rgb(0, 0, 0);
+}
